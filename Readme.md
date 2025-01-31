@@ -3,7 +3,7 @@
 
 Simple AI Chat Program designed for Deepseek's R1. This repo has no associations with them.
 =======
-Simple UI designed to run Deepseek R1 locally via PWA. 
+Simple UI designed to run Deepseek R1 locally. 
 
 ![Project Image](./EasyChat.png)
 
