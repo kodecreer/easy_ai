@@ -17,5 +17,5 @@ Simple UI designed to run Deepseek R1 locally via PWA.
 ---
 
 ### Usage
-You can either use the PWA app or run the dev your self.
+you need to run npm run dev to use the app. Plan is to maybe convert it into a PWA. 
 Make sure to select a Deepseek model you have locally downloaded yourself.
