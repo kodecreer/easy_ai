@@ -1,10 +1,9 @@
 # Project Name
 
-<<<<<<< HEAD
+
 Simple AI Chat Program designed for Deepseek's R1. This repo has no associations with them.
 =======
 Simple UI designed to run Deepseek R1 locally via PWA. 
->>>>>>> c214e9d (initial commit.)
 
 ![Project Image](./EasyChat.png)
 
