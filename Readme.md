@@ -1,4 +1,4 @@
-# Project Name
+# Easy Chat Ui
 
 
 Simple AI Chat Program designed for Deepseek's R1. This repo has no associations with them.
