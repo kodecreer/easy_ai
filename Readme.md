@@ -13,8 +13,9 @@ Simple UI designed to run Deepseek R1 locally via PWA.
 1. Clone this repository: `git clone https://github.com/yourusername/easy_chat.git`
 2. Navigate to the project directory: `cd easy_chat.git`
 3. Install dependencies if necessary using npm i. 
-
+4. Make sure you have one of the Deepseek R1 models downloaded from ollama
 ---
 
 ### Usage
-You can either use the PWA app or run the dev your self. 
+You can either use the PWA app or run the dev your self.
+Make sure to select a Deepseek model you have locally downloaded yourself.
